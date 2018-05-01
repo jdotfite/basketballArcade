@@ -1,5 +1,5 @@
 # Arcade-Style Arduino Basketball
-<img src="https://i.imgur.com/hcS3pOc.jpg" title="Basketball Arduino" />
+<img src="https://i.imgur.com/03eO0QS.jpg" title="Basketball Arduino" />
 
 # Hardware
 <ol>
