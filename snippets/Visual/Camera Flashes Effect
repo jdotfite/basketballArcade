@@ -21,7 +21,7 @@ uint8_t myColors[][3] = {{251, 255, 254},   // white
 // don't edit the line below
 #define FAVCOLORS sizeof(myColors) / 3
 
-void setup() {k
+void setup() {
   strip.begin();
   strip.setBrightness(100);
   strip.show(); // Initialize all pixels to 'off'
