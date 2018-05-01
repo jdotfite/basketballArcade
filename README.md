@@ -31,7 +31,7 @@
 # Scenario - possible later enhancements
 <ul>
   <li>Slam Dunk (flex sensor on rim)</li>
-  <li>Ball through hoop AND NOT hitting backboard (distance sensor detection, but peizo sensor not triggered</li>
+  <li>Ball through hoop AND NOT hitting backboard (distance sensor detection, but peizo sensor not triggered)</li>
 </ul>
 
 # Shot clock arcade mode
