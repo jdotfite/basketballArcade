@@ -1,5 +1,5 @@
 # Arcade-Style Arduino Basketball
-<img src="https://i.imgur.com/bRjDppB.jpg" title="SKLZ Mini Hoop System" /><img src="https://imgur.com/koTBpGa.jpg" title="Arduino Uno" />
+<img src="https://i.imgur.com/bRjDppB.jpg?2" title="SKLZ Mini Hoop System" /><img src="https://imgur.com/koTBpGa.jpg?4" title="Arduino Uno" />
 
 # Hardware
 <ol>
