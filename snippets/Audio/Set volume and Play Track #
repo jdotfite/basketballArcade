@@ -46,20 +46,15 @@ void setup() {
     while (1);
   }
   Serial.println("SFX board found");
+
+  volAdjust();
 }
 
 
 void loop() {
 
-  //test sending volume down over and over
-  uint16_t v;
-  if (! (v = sfx.volDown()) ) {
-    Serial.println("Failed to adjust");
-  } else {
-    Serial.print("Volume: ");
-    Serial.println(v);
-  }
-  
+    
+
   //test playing specific # track
   uint8_t n = 1;  // track 1
   Serial.print("\nPlaying track #"); Serial.println(n);
@@ -68,4 +63,12 @@ void loop() {
   }
   
   delay(2000);
+}
+
+void volAdjust() {
+    int volDown = 20; while( volDown-- ) { 
+     uint16_t v;
+     v=sfx.volDown();
+     Serial.println(v);
+    }
 }
