@@ -1,2 +1,2 @@
-# Arduino Basketball Arcade
+# Arcade-Style Arduino Basketball
 Basketball Arduino Arcade
