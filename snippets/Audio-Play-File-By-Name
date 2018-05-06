@@ -72,7 +72,7 @@ void setup() {
 void loop() {
 
   sfx.playTrack(soundName[currentSound]);
-  delay(soundLength[currentSound]);
+/*   delay(soundLength[currentSound]);*/
   currentSound++;
   
   /* Implementing Delay
